@@ -1,4 +1,4 @@
-# Mufradat - Landing Page [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/) 
+# Mufradat - Landing Page [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](#) 
 
 ### Technology Stack
 [![html5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
@@ -8,4 +8,4 @@
 
 
 <p>landing page site for mufradat android application. </p>
-<p>This project is for my curriculum vitae site. Can be accessed <a href='http://cv.adenanteng.com' target=_blank><u>here</u>.</a></p>
+<p>This project can be accessed <a href='http://cv.adenanteng.com' target=_blank><u>here</u>.</a></p>
