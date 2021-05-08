@@ -8,6 +8,6 @@
 
 ### -
 <p>landing page site for mufradat android application. </p>
-<p>This project can be accessed <a href='http://mufradat.adenanteng.com' target=_blank><u>here</u>.</a></p>
+<p>Site can be accessed <a href='http://mufradat.adenanteng.com' target=_blank><u>here</u>.</a></p>
 
 <p>For mufradat-android app can be accessed <a href='http://github.com/adenanteng/mufradat-android' target=_blank><u>here</u>.</a></p>
